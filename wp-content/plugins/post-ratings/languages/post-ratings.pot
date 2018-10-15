@@ -1,0 +1,287 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Ratings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-10 20:05+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: xs\n"
+"Language-Team: dFactory <info@dfactory.eu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: en\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/functions.php:127 includes/widgets.php:44
+msgid "No posts found"
+msgstr ""
+
+#: includes/settings.php:26 includes/settings.php:295 includes/settings.php:298
+msgid "Post Ratings"
+msgstr ""
+
+#: includes/settings.php:41
+msgid "Maximum rating"
+msgstr ""
+
+#: includes/settings.php:42
+msgid "Bayesian score formula"
+msgstr ""
+
+#: includes/settings.php:43
+msgid "Allow ratings on"
+msgstr ""
+
+#: includes/settings.php:44
+msgid "Ratings visibility"
+msgstr ""
+
+#: includes/settings.php:45
+msgid "User access"
+msgstr ""
+
+#: includes/settings.php:46
+msgid "Link location"
+msgstr ""
+
+#: includes/settings.php:47
+msgid "Remove ratings"
+msgstr ""
+
+#: includes/settings.php:65
+msgid "Enter from 1 to 10 (defaults to 5). <strong>Important:</strong> Changing this option will reset existing post rating records."
+msgstr ""
+
+#: includes/settings.php:77 includes/settings.php:81
+#, php-format
+msgid "from %s"
+msgstr ""
+
+#: includes/settings.php:85
+msgid "I have my own formula"
+msgstr ""
+
+#: includes/settings.php:110
+msgid "Global average number of votes per post"
+msgstr ""
+
+#: includes/settings.php:111
+msgid "Global number of votes (from all posts)"
+msgstr ""
+
+#: includes/settings.php:112
+msgid "Number of votes from the current post"
+msgstr ""
+
+#: includes/settings.php:113
+#, php-format
+msgid "Global average rating per post (from 1 to %d)"
+msgstr ""
+
+#: includes/settings.php:114
+#, php-format
+msgid "Average rating of the current post (from 1 to %d)"
+msgstr ""
+
+#: includes/settings.php:115
+#, php-format
+msgid "Minimum vote count per post to consider (%d by default)"
+msgstr ""
+
+#: includes/settings.php:116
+#, php-format
+msgid "Maximum rating, see option above (currently %d)"
+msgstr ""
+
+#: includes/settings.php:155
+msgid "Home"
+msgstr ""
+
+#: includes/settings.php:156
+msgid "Archives"
+msgstr ""
+
+#: includes/settings.php:157
+msgid "Single pages"
+msgstr ""
+
+#: includes/settings.php:158
+msgid "Search results"
+msgstr ""
+
+#: includes/settings.php:183
+msgid "Allow unregistered users to vote"
+msgstr ""
+
+#: includes/settings.php:195
+msgid "Before post content"
+msgstr ""
+
+#: includes/settings.php:196
+msgid "After post content"
+msgstr ""
+
+#: includes/settings.php:197
+msgid "I have my own action hook"
+msgstr ""
+
+#: includes/settings.php:210
+#, php-format
+msgid "Select the location for the rate links. You can also add it manually anywhere by using the %s shortcode"
+msgstr ""
+
+#: includes/settings.php:233
+msgid "Delete rating records from all posts."
+msgstr ""
+
+#: includes/settings.php:300
+msgid "Need support?"
+msgstr ""
+
+#: includes/settings.php:301
+msgid "If you are having problems with this plugin, please talk about them in the"
+msgstr ""
+
+#: includes/settings.php:301
+msgid "Support forum"
+msgstr ""
+
+#: includes/settings.php:303
+msgid "Do you like this plugin?"
+msgstr ""
+
+#: includes/settings.php:304
+msgid "Rate it 5"
+msgstr ""
+
+#: includes/settings.php:304
+msgid "on WordPress.org"
+msgstr ""
+
+#: includes/settings.php:305
+msgid "Blog about it & link to the"
+msgstr ""
+
+#: includes/settings.php:305
+msgid "plugin page"
+msgstr ""
+
+#: includes/settings.php:306
+msgid "Check out our other"
+msgstr ""
+
+#: includes/settings.php:306
+msgid "WordPress plugins"
+msgstr ""
+
+#: includes/settings.php:309
+msgid "Created by"
+msgstr ""
+
+#: includes/settings.php:324
+msgid "Reset to defaults"
+msgstr ""
+
+#: includes/widgets.php:23 includes/widgets.php:33
+msgid "Top Rated Posts"
+msgstr ""
+
+#: includes/widgets.php:25
+msgid "Displays a list of the top rated posts."
+msgstr ""
+
+#: includes/widgets.php:48
+msgid "Ascending"
+msgstr ""
+
+#: includes/widgets.php:49
+msgid "Descending"
+msgstr ""
+
+#: includes/widgets.php:86
+msgid "Title"
+msgstr ""
+
+#: includes/widgets.php:90
+msgid "Post Types"
+msgstr ""
+
+#: includes/widgets.php:103
+msgid "Number of posts to show"
+msgstr ""
+
+#: includes/widgets.php:107
+msgid "No posts message"
+msgstr ""
+
+#: includes/widgets.php:111
+msgid "Order"
+msgstr ""
+
+#: includes/widgets.php:123
+msgid "Show post rating?"
+msgstr ""
+
+#: includes/widgets.php:125
+msgid "Show max rating?"
+msgstr ""
+
+#: includes/widgets.php:127
+msgid "Show post score?"
+msgstr ""
+
+#: includes/widgets.php:129
+msgid "Show post excerpt?"
+msgstr ""
+
+#: includes/widgets.php:131
+msgid "Show post thumbnail?"
+msgstr ""
+
+#: includes/widgets.php:133
+msgid "Show post votes?"
+msgstr ""
+
+#: includes/widgets.php:136
+msgid "Thumbnail size"
+msgstr ""
+
+#: post-ratings.php:274
+msgid "Support"
+msgstr ""
+
+#: post-ratings.php:298
+msgid "Settings"
+msgstr ""
+
+#: post-ratings.php:496
+msgid "Invalid vote! Cheatin' uh?"
+msgstr ""
+
+#: post-ratings.php:571
+msgid "You cannot rate this post!"
+msgstr ""
+
+#: post-ratings.php:633
+#, php-format
+msgid "Your '%s' action must run in a post's context!"
+msgstr ""
+
+#: templates/post-ratings-control.php:36
+#, php-format
+msgid "%2$s avg. rating (%3$s%% score) - %1$s vote"
+msgid_plural "%2$s avg. rating (%3$s%% score) - %1$s votes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/post-ratings-widget.php:52
+#, php-format
+msgid "%1$s vote"
+msgid_plural "%1$s votes"
+msgstr[0] ""
+msgstr[1] ""
